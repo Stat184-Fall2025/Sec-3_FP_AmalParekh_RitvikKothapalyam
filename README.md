@@ -1,28 +1,38 @@
 # Project Title
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+Pennsylvania PSSA Science Assessment Analysis. A data analysis project examining trends in Pennsylvania student science proficiency levels from 2008 to 2024 using Pennsylvania State System of Assessment (PSSA) data.
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
-
-### Interesting Insight (Optional)
-
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+This project examines over 15 years of PSSA science test score data to better understand how Pennsylvania students' science proficiency has changed over time. I analyzed how students are distributed across the four proficiency levels Advanced, Proficient, Basic, and Below Basic to identify meaningful trends in their performance. The goal was to determine whether Pennsylvania students are improving in science, facing new challenges, or maintaining consistent performance levels. These findings can help inform educational policy decisions and highlight specific areas where students may need additional support to succeed.
 
 ## Data Sources and Acknowledgements
 
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+- Data Source: Pennsylvania State System of Assessment (PSSA) - Overall science test scores by proficiency level
+- The dataset includes statewide science assessment results from the 2008-09 school year through the 2023-24 school year
+- Data provided as percentage distributions across four proficiency categories: Advanced, Proficient, Basic, and Below Basic
 
 ## Current Plan
 
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
-
+- Clean and structure the PSSA data for analysis
+- Visualize trends in student proficiency levels over the 15-year period
+- Identify significant changes or patterns, particularly around the 2012-13 assessment changes and the COVID-19 pandemic period
+- Calculate and compare the combined proficiency rates (Advanced + Proficient) across years
+- Examine whether achievement gaps are widening or narrowing over time
+- Provide interpretations and potential explanations for observed trends
+  
 ## Repo Structure
 
-Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
-
+├── data/
+│   └── Pennsylvania State System of Assessment (PSSA) - Overall science test scores by proficiency level.pdf
+├── scripts/
+│   └── [Your analysis scripts will go here]
+├── output/
+│   └── [Your visualizations and results will go here]
+├── README.md
+└── [Your project plan document]
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+Ritvik Kothapalyam, ritviksai@gmail.com [Github: RitvikKothapalyam]
+Amal Parekh, amalparekh2015@gmail.com [Github: amalparekh]
