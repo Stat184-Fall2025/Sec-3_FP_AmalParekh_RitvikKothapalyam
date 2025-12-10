@@ -23,14 +23,21 @@ This project examines over 15 years of PSSA science test score data to better un
   
 ## Repo Structure
 
-├── data/
-│   └── Pennsylvania State System of Assessment (PSSA) - Overall science test scores by proficiency level.pdf
-├── scripts/
-│   └── [Your analysis scripts will go here]
-├── output/
-│   └── [Your visualizations and results will go here]
-├── README.md
-└── [Your project plan document]
+This project is organized into the following folders:
+- data/ - Contains the raw PSSA science test score data
+    The main dataset is a PDF file with overall science test scores broken down by proficiency level (Advanced, Proficient, Basic, and Below Basic)
+
+- scripts/ - Where all analysis code lives
+    This is where you'll store any Python, R, or other scripts used to clean, analyze, and visualize the data
+
+- output/ - Stores all generated results
+    This folder will contain your charts, graphs, tables, and any other visualizations or analysis results
+
+- README.md - Project overview and documentation
+    The main file that explains what the project is about and how to navigate it
+
+- Project Plan Document - Your roadmap for the analysis
+    Outlines your research questions, methodology, and timeline
 
 ## Authors
 
