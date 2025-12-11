@@ -1,6 +1,6 @@
-# Project Title
+# Pennsylvania PSSA Science Assessment Analysis.
 
-Pennsylvania PSSA Science Assessment Analysis. A data analysis project examining trends in Pennsylvania student science proficiency levels from 2008 to 2024 using Pennsylvania State System of Assessment (PSSA) data.
+A data analysis project examining trends in Pennsylvania student science proficiency levels from 2008 to 2024 using Pennsylvania State System of Assessment (PSSA) data.
 
 ## Overview
 
