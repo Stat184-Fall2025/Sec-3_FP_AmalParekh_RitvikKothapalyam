@@ -24,13 +24,13 @@ This project examines over 15 years of PSSA science test score data to better un
 ## Repo Structure
 
 This project is organized into the following folders:
-- data/ - Contains the raw PSSA science test score data
+- data/ - Contains the raw PSSA science test score data (IN DEV)
     The main dataset is a PDF file with overall science test scores broken down by proficiency level (Advanced, Proficient, Basic, and Below Basic)
 
-- scripts/ - Where all analysis code lives
+- scripts/ - Where all analysis code lives (IN DEV)
     This is where you'll store any Python, R, or other scripts used to clean, analyze, and visualize the data
 
-- output/ - Stores all generated results
+- output/ - Stores all generated results (IN DEV)
     This folder will contain your charts, graphs, tables, and any other visualizations or analysis results
 
 - README.md - Project overview and documentation
